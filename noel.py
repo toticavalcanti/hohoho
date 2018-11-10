@@ -2,5 +2,5 @@
 """
 @author: toti.cavalcanti
 """
-def solution():
-    pass
+def solution(n):
+    return 'Ho!'
